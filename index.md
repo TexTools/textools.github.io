@@ -2,7 +2,4 @@
 layout: default
 description: Hello World
 ---
-
-# This should be the top heading
-
-## This should be a subheading
+<a href="{% include_relative download.md %}">Download TexTools</a>
