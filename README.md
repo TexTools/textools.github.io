@@ -1,3 +1,1 @@
-# TexTools - The Final Fantasy XIV Modding Toolkit
-
-asdf
+This is the github pages repository for the TexTools github page. \o/
