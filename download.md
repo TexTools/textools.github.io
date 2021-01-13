@@ -1,1 +1,0 @@
-https://github.com/TexTools/FFXIV_TexTools_UI/releases/download/v2.3.4.19/Install_TexTools.exe
