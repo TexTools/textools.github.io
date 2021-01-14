@@ -11,6 +11,6 @@ Bugs can reported on our <a href="https://github.com/TexTools/FFXIV_TexTools_UI/
 
 ## Useful Links
 - <a href="https://discord.gg/ffxivtextools">Official TexTools Discord</a>
-- <a href="https://github.com/TexTools/FFXIV_TexTools_UI/issues">XIV Mod Archive Website</a>
+- <a href="https://www.xivmodarchive.com">XIV Mod Archive Website</a>
 
 TexTools and the TexTools Github Group are in no way affiliated with SQUARE ENIX CO., LTD.
